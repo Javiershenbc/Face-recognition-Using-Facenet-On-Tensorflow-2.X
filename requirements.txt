@@ -1,0 +1,6 @@
+numpy
+opencv-python
+mtcnn
+scikit-learn
+scipy
+tensorflow-macos
